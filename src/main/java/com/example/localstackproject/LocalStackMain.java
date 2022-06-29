@@ -1,5 +1,5 @@
 package com.example.localstackproject;
-
+//Practicing pull request
 import com.amazonaws.SDKGlobalConfiguration;
 import com.amazonaws.client.builder.AwsClientBuilder;
 import com.amazonaws.services.dynamodbv2.AmazonDynamoDB;
